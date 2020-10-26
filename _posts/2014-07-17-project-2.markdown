@@ -1,5 +1,5 @@
 ---
-title: The Society of United Professionals
+title: The Society
 layout: default
 modal-id: 2
 date: 2014-07-17
