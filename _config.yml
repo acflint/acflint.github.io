@@ -1,7 +1,7 @@
 # Site settings
 title: Alex Flint - Software Developer
 email: me@alexf.ca
-formspree_code: ${{ secrets.REACT_APP_APIKey }}
+formspree_code: xdopgrja
 url: https://alexf.ca
 description: "I am a software developer specializing in Ruby on Rails, NationBuilder and Shopify."
 keywords: "software developer, nationbuilder, shopify, ruby on rails"
