@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2020-05-01
+img: koda.png
+alt: image-alt
+project-date:
+client: Koda Built
+client-url: https://kodabuilt.com/
+category: Shopify Development
+description: A mobile friendly Shopify store with custom page templates and integrations.
+---

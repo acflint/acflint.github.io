@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: sup.png
+alt: 
+project-date:
+client: The Society of United Professionals
+client-url: https://www.thesociety.ca/
+category: NationBuilder
+description: A highly customized NationBuilder website with a members-only portal and personalized content. Member data is syncronized with an internal member database by a custom built Ruby on Rails application.
+---
