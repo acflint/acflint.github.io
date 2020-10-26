@@ -8,6 +8,6 @@ alt: image-alt
 project-date:
 client: Majority Labs
 client-url: https://www.majoritylabs.digital/
-category: Software Development
+category: Ruby on Rails
 description: A Ruby on Rails application that enables progressive non-profits to coordinate and organize their activists online. Create and organize your content, send it to activists to post online, and provide them with conversation guidelines to canvass their social networks.
 ---

@@ -8,6 +8,6 @@ alt: image-alt
 project-date:
 client: Koda Built
 client-url: https://kodabuilt.com/
-category: Shopify Development
+category: Shopify
 description: A mobile friendly Shopify store with custom page templates and integrations.
 ---
