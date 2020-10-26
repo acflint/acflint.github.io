@@ -13,9 +13,9 @@
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.social }}</h3>
-                        <ul class="list-inline">
+                        <ul class="list-group list-group-horizontal">
                             {% for network in site.social %}
-                            <li>
+                            <li class="list-group-item">
                                 <a href="{{ network.url }}" class="btn-social btn-outline">
                                     {% if network.title == "nationbuilder" %}
                                         <img src="img/NationBuilder-mark.png" alt="nationbuilder">
