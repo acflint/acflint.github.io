@@ -1,10 +1,10 @@
 # Site settings
-title: Alex Flint
+title: Alex Flint - Software Developer
 email: me@alexf.ca
 formspree_code: xdopgrja
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+url: https://alexf.ca
+description: "I am a software developer specializing in Ruby on Rails, NationBuilder and Shopify."
+keywords: "software developer, nationbuilder, shopify, ruby on rails"
 skills: "Software Developer - Certified NationBuilder Architect - Technologist"
 meta_author: Alex Flint
 
@@ -40,15 +40,13 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: nationbuilder
-    url: https://nationbuilder.com/alexflint
-  - title: github
-    url: http://github.com/acflint
+  - title:
+    url:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Vancouver Island
-  - line: British Columbia
+  - line:
+  - line:
 
 # Credits content
 credits: 'I support open source software, like this theme created by <a class="text-dark" href="http://startbootstrap.com">Start Bootstrap</a>.'
