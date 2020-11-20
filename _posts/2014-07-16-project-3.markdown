@@ -1,13 +1,14 @@
 ---
-title: Koda Built
+title: Koda Buil
 layout: default
-modal-id: 3
+modal-id: "3"
 date: 2020-05-01
 img: koda.png
 alt: image-alt
-project-date:
+project-date: 
 client: Koda Built
 client-url: https://kodabuilt.com/
 category: Shopify
 description: A mobile friendly Shopify store with custom page templates and integrations.
+
 ---
